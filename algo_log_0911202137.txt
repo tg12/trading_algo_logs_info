@@ -1,0 +1,33 @@
++--------------------------+---------+-------------------------+
+| Name                     | Trend   | Opened                  |
++==========================+=========+=========================+
+| Kier Group PLC           | BUY     | 2020/09/09 14:56:13:000 |
++--------------------------+---------+-------------------------+
+| Elementis PLC            | BUY     | 2020/09/09 15:36:33:000 |
++--------------------------+---------+-------------------------+
+| Sound Energy PLC         | BUY     | 2020/09/10 09:17:46:000 |
++--------------------------+---------+-------------------------+
+| IP Group PLC             | BUY     | 2020/09/10 11:54:04:000 |
++--------------------------+---------+-------------------------+
+| Taylor Wimpey PLC        | BUY     | 2020/09/11 08:28:54:000 |
++--------------------------+---------+-------------------------+
+| Gulf Marine Services PLC | SELL    | 2020/09/11 09:09:09:000 |
++--------------------------+---------+-------------------------+
+| SIG PLC                  | SELL    | 2020/09/11 09:14:46:000 |
++--------------------------+---------+-------------------------+
+
+
+
+
+
+THE INFORMATION IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE INFORMATION BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INFORMATION OR THE USE OR OTHER DEALINGS IN THE INFORMATION.
+
+Bitcoin Cash (BCH)			qpz32c4lg7x7lnk9jg6qg7s4uavdce89myax5v5nuk
+Ether (ETH)				0x843d3DEC2A4705BD4f45F674F641cE2D0022c9FB
+Litecoin (LTC)				Lfk5y4F7KZa9oRxpazETwjQnHszEPvqPvu
+Bitcoin (BTC)				14Dm7L3ABPtumPDcj3REAvs4L6w9YFRnHK
+
+
+Last Modified: 11/09/2020 21:37:37
+Last Modified: 11/09/2020 21:37:37
+nLast Modified: 11/09/2020 21:37:37
