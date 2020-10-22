@@ -1,0 +1,46 @@
++----------------------------+---------+-------------------------+
+| Name                       | Trend   | Opened                  |
++============================+=========+=========================+
+| Firstgroup PLC             | BUY     | 2020/10/13 16:14:12:000 |
++----------------------------+---------+-------------------------+
+| Glencore PLC (LSE)         | SELL    | 2020/10/15 15:34:43:000 |
++----------------------------+---------+-------------------------+
+| TalkTalk Telecom Group PLC | SELL    | 2020/10/15 15:49:34:000 |
++----------------------------+---------+-------------------------+
+| Kingfisher PLC             | SELL    | 2020/10/15 16:19:45:000 |
++----------------------------+---------+-------------------------+
+| IQE PLC                    | SELL    | 2020/10/19 15:33:39:000 |
++----------------------------+---------+-------------------------+
+| Renewi PLC                 | SELL    | 2020/10/19 15:36:41:000 |
++----------------------------+---------+-------------------------+
+| Telit Communications PLC   | SELL    | 2020/10/19 15:56:40:000 |
++----------------------------+---------+-------------------------+
+| Restaurant Group PLC       | BUY     | 2020/10/19 16:09:42:000 |
++----------------------------+---------+-------------------------+
+| Custodian Reit PLC         | BUY     | 2020/10/19 16:12:57:000 |
++----------------------------+---------+-------------------------+
+| AIB Group PLC (LSE)        | SELL    | 2020/10/20 15:36:28:000 |
++----------------------------+---------+-------------------------+
+| Rank Group PLC             | SELL    | 2020/10/20 15:54:51:000 |
++----------------------------+---------+-------------------------+
+| HSBC Holdings PLC (LSE)    | BUY     | 2020/10/20 16:01:50:000 |
++----------------------------+---------+-------------------------+
+| HYVE Group PLC             | SELL    | 2020/10/20 16:04:36:000 |
++----------------------------+---------+-------------------------+
+| Tesco PLC                  | SELL    | 2020/10/20 16:22:03:000 |
++----------------------------+---------+-------------------------+
+| N Brown Group PLC          | BUY     | 2020/10/21 16:04:16:000 |
++----------------------------+---------+-------------------------+
+| Melrose Industries PLC     | SELL    | 2020/10/21 16:28:13:000 |
++----------------------------+---------+-------------------------+
+THE INFORMATION IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE INFORMATION BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INFORMATION OR THE USE OR OTHER DEALINGS IN THE INFORMATION.
+
+Bitcoin Cash (BCH)			qpz32c4lg7x7lnk9jg6qg7s4uavdce89myax5v5nuk
+Ether (ETH)				0x843d3DEC2A4705BD4f45F674F641cE2D0022c9FB
+Litecoin (LTC)				Lfk5y4F7KZa9oRxpazETwjQnHszEPvqPvu
+Bitcoin (BTC)				14Dm7L3ABPtumPDcj3REAvs4L6w9YFRnHK
+
+https://github.com/tg12/trading_algo_logs_info
+Last Modified: 22/10/2020 05:47:02
+Last Modified: 22/10/2020 05:47:02
+Last Modified: 22/10/2020 05:47:02
