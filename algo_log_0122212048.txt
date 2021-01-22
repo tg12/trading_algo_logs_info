@@ -1,0 +1,50 @@
++--------------------------------------+---------+-------------------------+
+| Name                                 | Trend   | Opened                  |
++======================================+=========+=========================+
+| Triple Point Social Housing REIT PLC | SELL    | 2020/12/01 16:23:24:000 |
++--------------------------------------+---------+-------------------------+
+| Londonmetric Property PLC            | SELL    | 2020/12/11 11:30:38:000 |
++--------------------------------------+---------+-------------------------+
+| Hays PLC                             | SELL    | 2020/12/18 08:00:25:000 |
++--------------------------------------+---------+-------------------------+
+| Mitie Group PLC                      | BUY     | 2021/01/05 08:00:44:000 |
++--------------------------------------+---------+-------------------------+
+| Henderson Far East Income Ltd        | SELL    | 2021/01/06 09:17:32:000 |
++--------------------------------------+---------+-------------------------+
+| Spirent Communications PLC           | BUY     | 2021/01/07 08:02:53:000 |
++--------------------------------------+---------+-------------------------+
+| Centamin PLC                         | BUY     | 2021/01/12 08:00:44:000 |
++--------------------------------------+---------+-------------------------+
+| ITV PLC                              | BUY     | 2021/01/12 08:03:26:000 |
++--------------------------------------+---------+-------------------------+
+| International Personal Finance PLC   | BUY     | 2021/01/12 09:22:41:000 |
++--------------------------------------+---------+-------------------------+
+| Ashmore Group PLC                    | BUY     | 2021/01/18 08:05:50:000 |
++--------------------------------------+---------+-------------------------+
+| Firstgroup PLC                       | BUY     | 2021/01/18 08:13:09:000 |
++--------------------------------------+---------+-------------------------+
+| BMO Global Smaller Companies PLC     | BUY     | 2021/01/18 09:03:49:000 |
++--------------------------------------+---------+-------------------------+
+| Baillie Gifford UK Growth Fund PLC   | BUY     | 2021/01/18 09:48:11:000 |
++--------------------------------------+---------+-------------------------+
+| U And I Group PLC                    | SELL    | 2021/01/18 11:22:39:000 |
++--------------------------------------+---------+-------------------------+
+| Accsys Technologies PLC              | BUY     | 2021/01/19 12:29:36:000 |
++--------------------------------------+---------+-------------------------+
+| Vodafone Group PLC                   | BUY     | 2021/01/20 08:00:22:000 |
++--------------------------------------+---------+-------------------------+
+| PZ Cussons PLC                       | SELL    | 2021/01/21 08:12:44:000 |
++--------------------------------------+---------+-------------------------+
+| Cairn Energy PLC                     | BUY     | 2021/01/21 09:44:17:000 |
++--------------------------------------+---------+-------------------------+
+THE INFORMATION IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE INFORMATION BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INFORMATION OR THE USE OR OTHER DEALINGS IN THE INFORMATION.
+
+Bitcoin Cash (BCH)			qpz32c4lg7x7lnk9jg6qg7s4uavdce89myax5v5nuk
+Ether (ETH)				0x843d3DEC2A4705BD4f45F674F641cE2D0022c9FB
+Litecoin (LTC)				Lfk5y4F7KZa9oRxpazETwjQnHszEPvqPvu
+Bitcoin (BTC)				14Dm7L3ABPtumPDcj3REAvs4L6w9YFRnHK
+
+https://github.com/tg12/trading_algo_logs_info
+Last Modified: 22/01/2021 20:48:52
+Last Modified: 22/01/2021 20:48:52
+Last Modified: 22/01/2021 20:48:52
